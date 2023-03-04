@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(int argc, char * argv[])
+int main(void)
 {
 	int i = 0, number = 0;
 	int start_num = 0;
